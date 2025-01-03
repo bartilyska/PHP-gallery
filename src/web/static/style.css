@@ -1,0 +1,14 @@
+.tablica
+{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  column-gap: 130px;
+  row-gap:60px;
+}
+.tablo
+{
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  column-gap: 130px;
+  row-gap:60px;
+}
